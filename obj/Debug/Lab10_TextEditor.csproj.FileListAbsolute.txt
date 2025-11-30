@@ -1,0 +1,20 @@
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.exe.config
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.exe
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.pdb
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csprojAssemblyReference.cache
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.MainForm.resources
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.Properties.Resources.resources
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csproj.GenerateResource.cache
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.exe
+C:\Users\shotgun_1337\source\repos\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.pdb
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.exe.config
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.exe
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\bin\Debug\Lab10_TextEditor.pdb
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csprojAssemblyReference.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.MainForm.resources
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.Properties.Resources.resources
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csproj.GenerateResource.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.csproj.CoreCompileInputs.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.exe
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab10_TextEditor\obj\Debug\Lab10_TextEditor.pdb
